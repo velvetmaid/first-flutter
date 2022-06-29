@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656164053712",
+    "project_id": "lecasa-crud",
+    "storage_bucket": "lecasa-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656164053712:android:88c36927d9a74f96d4f4d5",
+        "android_client_info": {
+          "package_name": "com.example.le_casa_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656164053712-ucl1pqnkh8t75jtjmrn7tmi3c8kvb5md.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCydz9bTm811u2BN5gUhZBHmXXU9lIXpHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656164053712-ucl1pqnkh8t75jtjmrn7tmi3c8kvb5md.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
